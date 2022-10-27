@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "antd": "^4.23.6",
+    "boostrap": "^2.0.0"
+  }
+}
